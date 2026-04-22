@@ -1,4 +1,4 @@
-# Tuples is similar to array in Java.
+# Tuples is similar to array in Java. surrounded by round brackets
 # They are immutable. i.e. We can't edit the data in Tuples
 
 user_info = ("Marie", 29, 56.52, "Single", True)
