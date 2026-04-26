@@ -1,4 +1,4 @@
-# create a custom exception class and raise the eception
+# create a custom exception class and raise the exception
 class MyException(Exception):
     pass
 
